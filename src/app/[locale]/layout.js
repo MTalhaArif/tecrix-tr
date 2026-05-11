@@ -11,7 +11,9 @@ export const metadata = {
   description: 'Custom Product & Software Development Focused On Your Success',
 };
 
-export default async function LocaleLayout({children, params: {locale}}) {
+export default async function LocaleLayout({children, params}) {
+  const {locale} = await params;
+
   if (!routing.locales.includes(locale)) {
     notFound();
   }
