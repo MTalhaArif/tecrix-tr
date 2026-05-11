@@ -1,0 +1,100 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "aboutUs": "About Us",
+    "tech": "Tech",
+    "caseStudies": "Case Studies"
+  },
+  "Hero": {
+    "title": "Custom Product & Software Development",
+    "subtitle": "Focused On Your Success",
+    "bookCall": "Book a call",
+    "description": "We help entrepreneurs and business leaders build and launch innovative custom software solutions to the market across a range of verticals & industries. We can help you turn your vision into a successful product together, whether it’s in the form of a Minimum Viable Product, UX/UI services, full product custom software development or help to scale your company."
+  },
+  "Services": {
+    "projectScope": "Project Scope",
+    "projectScopeDesc": "A structured 15 day process to align your product vision with your business goals.",
+    "aiDev": "AI Development & Enablement",
+    "aiDevDesc": "We leverage ML and Generative AI strategically to ensure your business is future-ready.",
+    "mvp": "MVP Builder",
+    "mvpDesc": "Go to the market quickly with a high-quality Minimum Viable Product.",
+    "customSoftware": "Custom Software Development",
+    "customSoftwareDesc": "Lean frameworks applied to your vision to create an innovative custom software solution.",
+    "uxui": "UX/UI Design",
+    "uxuiDesc": "Design an engaging product that is easy-to-use, attractive and functional.",
+    "dedicatedTeams": "Dedicated Teams",
+    "dedicatedTeamsDesc": "Build your product with a dedicated team of developers.",
+    "instructional": "Instructional Design",
+    "instructionalDesc": "Build your product with a dedicated team of developers.",
+    "animation": "2D Animation",
+    "animationDesc": "Design an engaging product that is easy-to-use, attractive and functional."
+  },
+  "About": {
+    "description": "At Tecrix, we specialize in providing cutting-edge solutions in the fields of instructional design and AI development. Led by Talha Arif, a top-rated freelancer on Upwork, we bring expert-level knowledge and innovative approaches to every project. Our focus is on creating transformative learning experiences and developing advanced AI technologies that drive success for businesses and individuals alike. Whether you’re looking for customized training solutions or AI-driven advancements, Tecrix is your trusted partner in navigating the future of technology and education.",
+    "ceo": "M Talha Arif – CEO, Tecrix"
+  },
+  "Testimonial": {
+    "text": "We are very happy to work with Tecrix. The collaboration goes far beyond a standard IT service: with Tecrix we have a sparring partner that challenges us in our product decisions and is truly passionate about the results developed. The level of professionalism and dedication is exceptional in this industry and we are eager to strengthen our collaboration in the future.",
+    "author": "Dr Amjad Saqib – Akhuwat, Chairman"
+  },
+  "CaseStudies": {
+    "seeCaseStudy": "See Case Study",
+    "seeAll": "See All Case Study",
+    "faveTitle": "Fave",
+    "faveDesc": "Fave is a fandom-centric community with highly engaging content where fans can create deeper and lasting connections. The vision to nurture and grow the community is centered on rewarding positive and meaningful engagement with points that can be redeemed for discounts and exclusive experiences.",
+    "darazTitle": "Daraz",
+    "darazDesc": "DARAZ IS A LEADING E-COMMERCE PLATFORM THAT HAS EMERGED AS A KEY PLAYER IN THE ONLINE SHOPPING LANDSCAPE, OFFERING A DIVERSE RANGE OF PRODUCTS TO CUSTOMERS ACROSS MULTIPLE COUNTRIES.",
+    "foodpandaTitle": "Food Panda",
+    "foodpandaDesc": "Foodpanda is a fully-owned subsidiary of Delivery Hero, a global leader in the food delivery industry. While focused on growing its core business in food deliveries, foodpanda invests heavily in technology to drive innovation and operational excellence."
+  },
+  "Team": {
+    "needTeam": "Need a team?",
+    "needTeamDesc": "I will help you build a team of top talent to reach your business goals.",
+    "needTeamName": "M Talha Arif",
+    "buildingMvp": "Building an MVP?",
+    "buildingMvpDesc": "Looking to build fast and reduce your time to market? Drop me a message.",
+    "buildingMvpName": "Dr. Junaid Qadir",
+    "talkTech": "Talk tech?",
+    "talkTechDesc": "I can help you find the right technical requirements for your product.",
+    "talkTechName": "Ilhan",
+    "emailTeam": "Email Tecrix Team"
+  },
+  "Stats": {
+    "awards": "Awards",
+    "awardsDesc": "We are voted a Top Firm by Entrepreneurs and Business Leaders just like you.",
+    "openSource": "Open Source",
+    "openSourceDesc": "We don’t just serve the industry – we’re part of the industry and build technology that is used worldwide.",
+    "clients": "Clients",
+    "clientsDesc": "Industry leaders entrust their business visions to us.",
+    "news": "News",
+    "newsDesc": "Read the latest stories from our world."
+  },
+  "Footer": {
+    "talkToUs": "Talk to us and get your project moving!",
+    "respondTime": "We will respond to you within 24 hours.",
+    "talkToExperts": "You'll be talking to product and tech experts (no account managers).",
+    "letTalk": "Let’s talk about your project",
+    "scheduleCall": "Schedule a Call",
+    "address": "Office # 19 Saghrana Market Kotmomin Sargodha, Pakistan",
+    "email": "info@tecrix.io",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "© 2026 Tecrix.org All rights reserved. Associate With Tecrix.io",
+    "privacy": "Privacy Policy"
+  },
+  "Pages": {
+    "aboutUsTitle": "About Us",
+    "aboutUsContent": "Learn more about Tecrix and our mission.",
+    "servicesTitle": "Our Services",
+    "servicesContent": "We provide top-notch custom software development and AI solutions.",
+    "pricingTitle": "Pricing",
+    "pricingContent": "Contact us for a personalized quote tailored to your business needs.",
+    "techTitle": "Technology",
+    "techContent": "We leverage the latest technologies in AI, ML, and web development.",
+    "caseStudiesTitle": "Case Studies",
+    "caseStudiesContent": "Explore how we have helped our clients achieve their business goals."
+  }
+}

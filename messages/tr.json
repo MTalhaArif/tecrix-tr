@@ -1,0 +1,100 @@
+{
+  "Navigation": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "pricing": "Fiyatlandırma",
+    "aboutUs": "Hakkımızda",
+    "tech": "Teknoloji",
+    "caseStudies": "Örnek Olaylar"
+  },
+  "Hero": {
+    "title": "Özel Ürün ve Yazılım Geliştirme",
+    "subtitle": "Başarınıza Odaklı",
+    "bookCall": "Görüşme Ayarla",
+    "description": "Girişimcilere ve iş liderlerine çeşitli sektörlerde yenilikçi özel yazılım çözümleri oluşturup piyasaya sürmelerinde yardımcı oluyoruz. Vizyonunuzu ister bir Minimum Uygulanabilir Ürün (MVP), ister UX/UI hizmetleri, ister tam kapsamlı özel yazılım geliştirme şeklinde olsun, başarılı bir ürüne dönüştürmenize veya şirketinizi ölçeklendirmenize yardımcı olabiliriz."
+  },
+  "Services": {
+    "projectScope": "Proje Kapsamı",
+    "projectScopeDesc": "Ürün vizyonunuzu iş hedeflerinizle uyumlu hale getirmek için yapılandırılmış 15 günlük bir süreç.",
+    "aiDev": "Yapay Zeka Geliştirme ve Etkinleştirme",
+    "aiDevDesc": "İşletmenizin geleceğe hazır olmasını sağlamak için Makine Öğrenimi ve Üretken Yapay Zekayı stratejik olarak kullanıyoruz.",
+    "mvp": "MVP Oluşturucu",
+    "mvpDesc": "Yüksek kaliteli bir Minimum Uygulanabilir Ürün ile pazara hızlıca girin.",
+    "customSoftware": "Özel Yazılım Geliştirme",
+    "customSoftwareDesc": "Yenilikçi bir özel yazılım çözümü oluşturmak için vizyonunuza uygulanan yalın çerçeveler.",
+    "uxui": "UX/UI Tasarımı",
+    "uxuiDesc": "Kullanımı kolay, çekici ve işlevsel olan ilgi çekici bir ürün tasarlayın.",
+    "dedicatedTeams": "Özel Ekipler",
+    "dedicatedTeamsDesc": "Ürününüzü özel bir geliştirici ekibiyle oluşturun.",
+    "instructional": "Eğitim Tasarımı",
+    "instructionalDesc": "Ürününüzü özel bir geliştirici ekibiyle oluşturun.",
+    "animation": "2D Animasyon",
+    "animationDesc": "Kullanımı kolay, çekici ve işlevsel olan ilgi çekici bir ürün tasarlayın."
+  },
+  "About": {
+    "description": "Tecrix olarak, eğitim tasarımı ve yapay zeka geliştirme alanlarında en yeni çözümleri sunma konusunda uzmanız. Upwork'te en yüksek puan alan bir serbest çalışan olan Talha Arif liderliğinde, her projeye uzman düzeyinde bilgi ve yenilikçi yaklaşımlar getiriyoruz. Odak noktamız, dönüştürücü öğrenme deneyimleri yaratmak ve hem işletmeler hem de bireyler için başarıyı yönlendiren gelişmiş yapay zeka teknolojileri geliştirmektir. İster özelleştirilmiş eğitim çözümleri ister yapay zeka odaklı ilerlemeler arıyor olun, Tecrix teknolojinin ve eğitimin geleceğinde güvenilir ortağınızdır.",
+    "ceo": "M Talha Arif – CEO, Tecrix"
+  },
+  "Testimonial": {
+    "text": "Tecrix ile çalışmaktan çok mutluyuz. İşbirliği standart bir bilişim hizmetinin çok ötesine geçiyor: Tecrix ile ürün kararlarımızda bize meydan okuyan ve geliştirilen sonuçlar konusunda gerçekten tutkulu olan bir tartışma ortağımız var. Profesyonellik ve adanmışlık düzeyi bu sektörde istisnai ve gelecekteki işbirliğimizi güçlendirmeye hevesliyiz.",
+    "author": "Dr Amjad Saqib – Akhuwat, Başkan"
+  },
+  "CaseStudies": {
+    "seeCaseStudy": "Örnek Olayı Gör",
+    "seeAll": "Tüm Örnek Olayları Gör",
+    "faveTitle": "Fave",
+    "faveDesc": "Fave, hayranların daha derin ve kalıcı bağlantılar kurabileceği son derece ilgi çekici içeriğe sahip, hayran odaklı bir topluluktur. Topluluğu besleme ve büyütme vizyonu, olumlu ve anlamlı etkileşimi indirimler ve özel deneyimler için kullanılabilecek puanlarla ödüllendirmeye odaklanmıştır.",
+    "darazTitle": "Daraz",
+    "darazDesc": "DARAZ, ÇEŞİTLİ ÜLKELERDEKİ MÜŞTERİLERE ÇEŞİTLİ ÜRÜNLER SUNAN, ÇEVRİMİÇİ ALIŞVERİŞ ORTAMINDA ÖNEMLİ BİR OYUNCU OLARAK ORTAYA ÇIKAN LİDER BİR E-TİCARET PLATFORMUDUR.",
+    "foodpandaTitle": "Food Panda",
+    "foodpandaDesc": "Foodpanda, gıda dağıtım endüstrisinde küresel bir lider olan Delivery Hero'nun tamamen sahip olduğu bir yan kuruluşudur. Gıda dağıtımlarındaki çekirdek işini büyütmeye odaklanırken, foodpanda yenilikçiliği ve operasyonel mükemmelliği yönlendirmek için teknolojiye büyük yatırım yapıyor."
+  },
+  "Team": {
+    "needTeam": "Bir ekibe mi ihtiyacınız var?",
+    "needTeamDesc": "İş hedeflerinize ulaşmak için en iyi yeteneklerden oluşan bir ekip kurmanıza yardımcı olacağım.",
+    "needTeamName": "M Talha Arif",
+    "buildingMvp": "Bir MVP mi oluşturuyorsunuz?",
+    "buildingMvpDesc": "Hızlı bir şekilde oluşturmak ve pazara çıkış sürenizi kısaltmak mı istiyorsunuz? Bana bir mesaj bırakın.",
+    "buildingMvpName": "Dr. Junaid Qadir",
+    "talkTech": "Teknoloji konuşalım mı?",
+    "talkTechDesc": "Ürününüz için doğru teknik gereksinimleri bulmanıza yardımcı olabilirim.",
+    "talkTechName": "Ilhan",
+    "emailTeam": "Tecrix Ekibine E-posta Gönder"
+  },
+  "Stats": {
+    "awards": "Ödüller",
+    "awardsDesc": "Sizin gibi Girişimciler ve İş Liderleri tarafından En İyi Firma seçildik.",
+    "openSource": "Açık Kaynak",
+    "openSourceDesc": "Sadece sektöre hizmet etmiyoruz – sektörün bir parçasıyız ve dünya çapında kullanılan teknolojiler üretiyoruz.",
+    "clients": "Müşteriler",
+    "clientsDesc": "Sektör liderleri iş vizyonlarını bize emanet ediyor.",
+    "news": "Haberler",
+    "newsDesc": "Dünyamızdan en son hikayeleri okuyun."
+  },
+  "Footer": {
+    "talkToUs": "Bizimle konuşun ve projenizi harekete geçirin!",
+    "respondTime": "Size 24 saat içinde cevap vereceğiz.",
+    "talkToExperts": "Ürün ve teknoloji uzmanlarıyla konuşacaksınız (müşteri temsilcisi yok).",
+    "letTalk": "Projeniz hakkında konuşalım",
+    "scheduleCall": "Görüşme Ayarla",
+    "address": "Ofis # 19 Saghrana Market Kotmomin Sargodha, Pakistan",
+    "email": "info@tecrix.io",
+    "quickLinks": "Hızlı Bağlantılar",
+    "services": "Hizmetler",
+    "contact": "İletişim",
+    "rights": "© 2026 Tecrix.org Tüm hakları saklıdır. Tecrix.io iştirakidir",
+    "privacy": "Gizlilik Politikası"
+  },
+  "Pages": {
+    "aboutUsTitle": "Hakkımızda",
+    "aboutUsContent": "Tecrix ve misyonumuz hakkında daha fazla bilgi edinin.",
+    "servicesTitle": "Hizmetlerimiz",
+    "servicesContent": "Birinci sınıf özel yazılım geliştirme ve yapay zeka çözümleri sunuyoruz.",
+    "pricingTitle": "Fiyatlandırma",
+    "pricingContent": "İş ihtiyaçlarınıza göre uyarlanmış kişiselleştirilmiş bir teklif için bizimle iletişime geçin.",
+    "techTitle": "Teknoloji",
+    "techContent": "Yapay zeka, makine öğrenimi ve web geliştirmedeki en son teknolojilerden yararlanıyoruz.",
+    "caseStudiesTitle": "Örnek Olaylar",
+    "caseStudiesContent": "Müşterilerimizin iş hedeflerine ulaşmalarına nasıl yardımcı olduğumuzu keşfedin."
+  }
+}
