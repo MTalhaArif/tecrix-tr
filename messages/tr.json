@@ -86,15 +86,132 @@
     "privacy": "Gizlilik Politikası"
   },
   "Pages": {
-    "aboutUsTitle": "Hakkımızda",
-    "aboutUsContent": "Tecrix ve misyonumuz hakkında daha fazla bilgi edinin.",
-    "servicesTitle": "Hizmetlerimiz",
-    "servicesContent": "Birinci sınıf özel yazılım geliştirme ve yapay zeka çözümleri sunuyoruz.",
-    "pricingTitle": "Fiyatlandırma",
-    "pricingContent": "İş ihtiyaçlarınıza göre uyarlanmış kişiselleştirilmiş bir teklif için bizimle iletişime geçin.",
-    "techTitle": "Teknoloji",
-    "techContent": "Yapay zeka, makine öğrenimi ve web geliştirmedeki en son teknolojilerden yararlanıyoruz.",
-    "caseStudiesTitle": "Örnek Olaylar",
-    "caseStudiesContent": "Müşterilerimizin iş hedeflerine ulaşmalarına nasıl yardımcı olduğumuzu keşfedin."
+    "About": {
+      "title": "Hakkımızda",
+      "subtitle": "Deneyim, Titizlik ve Kullanıcı Odaklı Yaklaşım.",
+      "hello": "Merhaba, biz Tecrix'iz",
+      "helloDesc": "Anlamlı bir şeyler inşa etmek için buradasınız ve biz bunun gerçekleşmesine yardımcı olmak için buradayız. Ürün uzmanları, tasarımcılar ve mühendisler olarak, vizyonunuzu netleştirmek ve fikirden çekişe kadar en akıllı yolla ilerlemenizi sağlamak için ekibinize katılıyoruz.",
+      "whyUs": "Neden Biz",
+      "whyUsDesc": "Çünkü sizin yerinizdeydik. Tecrix, start-up'lar kuran, hızlı başarısız olan, sermaye toplayan ve her şeyi yaşamış eski kurucular tarafından oluşturuldu.",
+      "beyondWork": "İşin ötesinde",
+      "beyondWorkDesc": "Ekip olarak buluşmak ve birlikte eğlenceli şeyler yapmak için düzenli olarak etkinlikler düzenliyoruz.",
+      "meetFounders": "Kurucularla Tanışın",
+      "meetFoundersDesc": "Kurucu ekibimiz yolculuklarına kurumsal dünyada başladı. Çok az kaynakla sıfırdan girişimler kurarak yalın ürün geliştirmeyi incelediler.",
+      "meetTeam": "Ekiple Tanışın",
+      "meetTeamDesc": "Başlangıçtan, UX/UI tasarımına ve geliştirmeye kadar en iyi yetenekleri belirlemek için titiz bir tarama sürecimiz var."
+    },
+    "ServicesPage": {
+      "title": "Kullanıcı ihtiyaçlarına odaklı yenilikçi ürünler tasarlıyor ve inşa ediyoruz",
+      "subtitle": "Birlikte, vizyonunuzu Minimum Uygulanabilir Ürün, UX/UI hizmetleri veya şirketiniz için ölçeklendirme desteğiyle gelişen bir işletmeye dönüştürebiliriz.",
+      "howWeWork": "Nasıl çalışıyoruz",
+      "howWeWorkDesc": "Harika teknoloji ürünlerinden daha azını inşa etmek için hiçbir mazeret olmadığına inanıyoruz. Operasyonlarımızın merkezinde, kullanıcılarınızı memnun edecek yenilikçi çözümler üretmenize ve başlatmanıza yardımcı olmak yatıyor.",
+      "extendedTeam": "Genişletilmiş kurucu ortaklar ekibiniz",
+      "extendedTeamDesc": "Özümüzde, girişimciler ve iş liderleri için yüksek kaliteli, kullanıcı odaklı yazılım ürünleri tasarlıyor ve inşa ediyoruz.",
+      "tangibleResults": "Somut sonuçlar",
+      "tangibleResultsDesc": "Müşterilerimizin üçte ikisinin VC finansmanı elde etmesine yardımcı olma konusunda kıskanılacak bir geçmişe sahibiz.",
+      "topTalent": "En İyi Yetenek",
+      "topTalentDesc": "Yüksek kaliteli teknoloji mimarisi almanızı sağlamak için teknoloji yeteneklerindeki en iyi ve en parlak kişilerle çalışıyoruz.",
+      "provenTrack": "Kanıtlanmış Geçmiş",
+      "provenTrackDesc": "Teslim edilen 80'den fazla başarılı projeyle ekiplerimiz fikirleri etkili dijital çözümlere dönüştürüyor.",
+      "businessMindset": "İş Zihniyeti",
+      "businessMindsetDesc": "Başarılı bir üründe teknolojiden daha fazlası olduğunu biliyoruz, bu nedenle ürününüze her zaman ticari açıdan bakacağız.",
+      "userCentric": "Kullanıcı Odaklı Yaklaşım",
+      "userCentricDesc": "Son kullanıcınıza özelliklerden daha çok değer veriyoruz. Müşterinizin ihtiyaçlarını ve arzularını anlamak için zaman ayırıyoruz."
+    },
+    "Pricing": {
+      "title": "Son Örnekler",
+      "subtitle": "İşte son birkaç ayda üzerinde çalıştığımız projelerden bazı örnekler. Bu, fiyatlandırmanın boyut ve karmaşıklık gibi faktörlere bağlı olarak nasıl değişebileceğini anlamanıza yardımcı olacaktır.",
+      "examples": [
+        {
+          "title": "Topluluk Yönetimi Platformu",
+          "duration": "3 ay",
+          "price": "40 bin €",
+          "desc": "Güzellik sektörü için bir Soru-Cevap platformu MVP'si."
+        },
+        {
+          "title": "Sanat Pazarı",
+          "duration": "2 ay",
+          "price": "18 bin €",
+          "desc": "Bir Sanat nişinin özel ihtiyaçlarına hizmet etmek için inşa edilmiş pazar yeri."
+        },
+        {
+          "title": "API Ara Yazılım Bağlayıcısı",
+          "duration": "5 ay",
+          "price": "90 bin €",
+          "desc": "Çeşitli farklı üçüncü tarafları bir sürükle ve bırak arayüzünde sorunsuz bir şekilde entegre etmek için yazılım."
+        },
+        {
+          "title": "Proptech Bulutu",
+          "duration": "5 ay",
+          "price": "350 bin €",
+          "desc": "Belirli bir coğrafi alanla ilgili çeşitli veri noktalarını analiz eden ve gayrimenkul varlıklarının gelecekteki değerini çıkaran yapay zeka aracı."
+        },
+        {
+          "title": "Hukuk Teknolojisi (Legaltech)",
+          "duration": "2 ay",
+          "price": "100 bin €",
+          "desc": "Menkul kıymetler üzerindeki kamu kurallarını analiz eden ve bankacılara tavsiyelerde bulunan karmaşık bir yapay zeka aracı için MVP."
+        }
+      ],
+      "howWeGet": "Fiyatlandırmamıza Nasıl Ulaşıyoruz",
+      "howWeGetDesc": "Fiyatlandırmamız, ürün inovasyonuna ve yazılım geliştirmeye yönelik yalın, kullanıcı odaklı yaklaşımımızı yansıtır.",
+      "seedProject": "Tohum Projesi Açıklandı",
+      "seedProjectDesc": "Tohum programımız, birleştirildiğinde bir projenin temeli olabilecek bir grup bileşenden oluşan, son derece modüler bir mikro hizmet mimarisine sahip, amaca yönelik agnostik bir uygulamadır."
+    },
+    "Tech": {
+      "title": "En son çözümlerimizin arkasındaki teknoloji",
+      "subtitle": "Yalın çerçevelerin ve Ürün inovasyonunun teknik uzmanlıkla buluştuğu yer",
+      "toolkit": "Bir bakışta teknoloji araç setimiz",
+      "toolkitDesc": "Ürününüz için en iyi araçları ve çerçeveleri seçtiğimizden emin olmak için projenizin ihtiyaçlarını derinlemesine inceliyoruz.",
+      "fullStack": "Tam Yığın Uygulamaları",
+      "fullStackDesc": "Kapsamlı bir tam yığın web uygulamasına ihtiyacınız olduğunda, Kubernetes Kümesi kurulumundan ön uç ve arka uç geliştirmeye kadar her şeyi biz hallederiz.",
+      "ai": "Yapay Zeka",
+      "aiDesc": "Gelişmiş algoritmalar geliştiriyor ve makine öğrenimi tekniklerini entegre ediyoruz.",
+      "dataIntensive": "Veri Yoğun Uygulamalar",
+      "dataIntensiveDesc": "Büyük ölçekli veritabanlarını ustaca yönetiyor ve en son analizleri ve makine öğrenimini entegre ediyoruz.",
+      "mobile": "Mobil Uygulamalar (iOS & Android)",
+      "mobileDesc": "Kullanıcı dostu arayüzler tasarlıyor, optimum performans sağlıyor ve platformlar arası uyumluluğu entegre ediyoruz."
+    },
+    "CaseStudiesPage": {
+      "title": "Örnek Olaylar",
+      "subtitle": "Yalın çerçevelerin ve Ürün inovasyonunun teknik uzmanlıkla buluştuğu yer",
+      "studies": [
+        {
+          "category": "Yapay Zeka Geliştirme",
+          "title": "Otomatik Geri Alma Endüstrisi",
+          "desc": "Müşterimiz, araç kurtarma ekosistemindeki önemli oyuncuları güçlendiren bir hizmet sağlayıcısıdır."
+        },
+        {
+          "category": "Yapay Zeka Geliştirme",
+          "title": "Anormallik Tespit Sistemi",
+          "desc": "FreshAir Sensor, sigara içme olaylarını ve diğer hava kalitesi anormalliklerini tespit etmek için yenilikçi izleme cihazları sunar."
+        },
+        {
+          "category": "Yapay Zeka Geliştirme",
+          "title": "Belge Veri Çıkarımını Dijitalleştirmek için OCR",
+          "desc": "Amerika Birleşik Devletleri merkezli bu müşteri, tıbbi talep yönetiminde uzmanlaşmıştır."
+        },
+        {
+          "category": "Mobil Uygulama Geliştirme",
+          "title": "Ay Kulesi Biletleri",
+          "desc": "Herhangi bir küçük veya orta ölçekli etkinlik için bilet satın almanın geleneksel yolu, müşterinin seyahat etmesini gerektirir."
+        },
+        {
+          "category": "Mobil Uygulama Geliştirme",
+          "title": "Stemboard",
+          "desc": "Derslerin yürütülmesinden ödev teslimlerine kadar her şeyin dijitalleştirildiği bir eğitim teknolojisi portalı."
+        },
+        {
+          "category": "Yazılım Geliştirme",
+          "title": "Codebasics",
+          "desc": "Veri Analitiği, Yapay Zeka ve Veri Bilimi Öğrencilerini Sürükleyici Bir Öğrenme Platformuyla Güçlendirmek."
+        },
+        {
+          "category": "Veri Analitiği",
+          "title": "Dolandırıcılık Analitiği",
+          "desc": "Tüm işlemleri işlemek ve analiz etmek için buluşsal tabanlı bir GOFAI motoru oluşturuldu."
+        }
+      ]
+    }
   }
 }

@@ -1,5 +1,6 @@
 import {useTranslations} from 'next-intl';
 import { Bot, Lightbulb, Zap, Code, Layout, Users, GraduationCap, Film, Mail } from 'lucide-react';
+import ClientLogos from '@/components/ClientLogos';
 
 export default function Home() {
   const tHero = useTranslations('Hero');
@@ -20,6 +21,8 @@ export default function Home() {
           <button className="btn">{tHero('bookCall')}</button>
         </div>
       </section>
+
+      <ClientLogos />
 
       {/* Services Section */}
       <section id="services" className="section">
