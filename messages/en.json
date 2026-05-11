@@ -213,5 +213,22 @@
         }
       ]
     }
-  }
+  },
+  "TestimonialsList": [
+    {
+      "text": "Muhammad is fabulous and very reliable. Muhammad is also a strong eLearning developer.",
+      "author": "Jorge Pineda",
+      "rating": "5.0"
+    },
+    {
+      "text": "A tremendous instructional designer that was able to accomplish a significant amount in very little time with very high quality. Would love to work with him again!",
+      "author": "Vig / Small economy works",
+      "rating": "5.0"
+    },
+    {
+      "text": "Muhammad was a pleasure to work with. Very fast, efficient, responsive to feedback and communicative. He made it very easy.",
+      "author": "E-Learning Course Client (Canada)",
+      "rating": "5.0"
+    }
+  ]
 }

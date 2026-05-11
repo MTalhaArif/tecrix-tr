@@ -213,5 +213,22 @@
         }
       ]
     }
-  }
+  },
+  "TestimonialsList": [
+    {
+      "text": "Muhammad harika ve çok güvenilir. Aynı zamanda güçlü bir e-Öğrenim geliştiricisi.",
+      "author": "Jorge Pineda",
+      "rating": "5.0"
+    },
+    {
+      "text": "Kısa sürede çok yüksek kalitede önemli miktarda iş başarabilen muazzam bir eğitim tasarımcısı. Onunla tekrar çalışmak isterim!",
+      "author": "Vig / Small economy works",
+      "rating": "5.0"
+    },
+    {
+      "text": "Muhammad ile çalışmak bir zevkti. Çok hızlı, verimli, geri bildirimlere duyarlı ve iletişim kurmaya açıktı. İşimizi çok kolaylaştırdı.",
+      "author": "E-Öğrenim Kursu Müşterisi (Kanada)",
+      "rating": "5.0"
+    }
+  ]
 }

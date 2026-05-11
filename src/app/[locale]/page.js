@@ -6,7 +6,7 @@ export default function Home() {
   const tHero = useTranslations('Hero');
   const tServices = useTranslations('Services');
   const tAbout = useTranslations('About');
-  const tTestimonial = useTranslations('Testimonial');
+  const tTestimonial = useTranslations();
   const tCaseStudies = useTranslations('CaseStudies');
   const tTeam = useTranslations('Team');
 
@@ -73,16 +73,31 @@ export default function Home() {
         </div>
       </section>
 
-      {/* About Section */}
+      {/* About & Testimonials Section */}
       <section id="about" className="section" style={{background: 'var(--card-bg)'}}>
-        <div className="container" style={{maxWidth: '800px', textAlign: 'center'}}>
-          <h2 className="section-title">About Us</h2>
-          <p className="hero-desc" style={{marginBottom: '20px'}}>{tAbout('description')}</p>
-          <strong style={{color: 'var(--accent-color)'}}>{tAbout('ceo')}</strong>
+        <div className="container" style={{ textAlign: 'center'}}>
+          <h2 className="section-title">About Us & Client Reviews</h2>
+          <p className="hero-desc" style={{marginBottom: '20px', maxWidth: '800px', margin: '0 auto 40px'}}>{tAbout('description')}</p>
+          <strong style={{color: 'var(--accent-color)', display: 'block', marginBottom: '60px'}}>{tAbout('ceo')}</strong>
           
-          <div style={{marginTop: '60px', padding: '40px', borderTop: '1px solid var(--card-border)'}}>
-            <p style={{fontStyle: 'italic', marginBottom: '20px', fontSize: '1.1rem'}}>"{tTestimonial('text')}"</p>
-            <strong>{tTestimonial('author')}</strong>
+          <h3 style={{marginBottom: '40px', fontSize: '2rem'}}>Client Reviews on Upwork</h3>
+          <div className="grid">
+            {tTestimonial.raw('TestimonialsList').map((review, i) => (
+              <div key={i} className="card" style={{textAlign: 'left', display: 'flex', flexDirection: 'column'}}>
+                <div style={{display: 'flex', alignItems: 'center', marginBottom: '15px'}}>
+                  <span style={{color: '#14a800', fontWeight: 'bold', fontSize: '1.2rem', marginRight: '5px'}}>★</span>
+                  <span style={{color: '#14a800', fontWeight: 'bold', fontSize: '1.2rem', marginRight: '5px'}}>★</span>
+                  <span style={{color: '#14a800', fontWeight: 'bold', fontSize: '1.2rem', marginRight: '5px'}}>★</span>
+                  <span style={{color: '#14a800', fontWeight: 'bold', fontSize: '1.2rem', marginRight: '5px'}}>★</span>
+                  <span style={{color: '#14a800', fontWeight: 'bold', fontSize: '1.2rem', marginRight: '10px'}}>★</span>
+                  <span style={{fontWeight: 'bold', color: 'var(--text-color)'}}>{review.rating}</span>
+                </div>
+                <p style={{fontStyle: 'italic', marginBottom: '20px', fontSize: '1rem', flex: 1, color: 'var(--text-muted)'}}>"{review.text}"</p>
+                <div style={{borderTop: '1px solid var(--card-border)', paddingTop: '15px'}}>
+                  <strong style={{color: 'var(--primary-color)'}}>{review.author}</strong>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </section>
